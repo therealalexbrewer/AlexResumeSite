@@ -17,7 +17,7 @@ header.masthead {
     position: relative;
     height: 100vh;
     background-color: #343a40;
-    background: url('https://media-exp1.licdn.com/dms/image/C4E1BAQFC8ClltUyx1A/company-background_10000/0/1560183031176?e=2159024400&v=beta&t=XtLhTQYx1FxHk4Q4EDD2SKKelT3Zh9vJvmRc-wV6Tlg') no-repeat center center; -webkit-background-size: cover;
+    background: url('https://images.unsplash.com/photo-1542223616-740d5dff7f56?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8c2VhdHRsZSUyMG5pZ2h0fGVufDB8fDB8fHww') no-repeat center center; -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
